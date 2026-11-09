@@ -32,7 +32,4 @@ using LangGraph, SQLite, and ChromaDB to automate wealth management workflows.
 ---
 
 ### 📊 GitHub Stats
-<p>
-username=asycodes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <img src="https://streak-stats.demolab.com?user=asycodes&theme=tokyonight&hide_border=true" />
